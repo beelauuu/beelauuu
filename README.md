@@ -1,5 +1,5 @@
 # Hi there, I'm Brian! 👋
-<img src="https://media.giphy.com/media/3ohs4D1qXs5cnYy5Uk/giphy.gif" width="30px"> 
+
 
 ## 📊 GitHub Stats
 
